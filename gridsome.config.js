@@ -1,7 +1,7 @@
 module.exports = {
   siteName: 'Natural Guardian',
   siteDescription: "The site is about Indian Natural Independence fighters",
-  siteUrl: 'https://gridsome-starter-bleda.netlify.com',
+  siteUrl: 'no site created yet',
   titleTemplate: `%s | Bleda`,
   icon: 'src/favicon.png',
 

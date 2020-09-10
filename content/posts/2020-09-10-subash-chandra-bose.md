@@ -7,7 +7,7 @@ author: ""
 tags:
     - Netaji
     - Independencefighter
-cover: https://www.jagranjosh.com/imported/images/E/GK/Netaji-Subhas-Chandra-Bose.webp
+cover: https://www.jatland.com/w/images/thumb/4/4f/Subhash_Chandra_Bose.jpg/200px-Subhash_Chandra_Bose.jpg
 fullscreen: false
 ---
 Netaji Subhas Chandra Bose was an Indian Nationalist whose patriotism towards India has left a mark in the hearts of many Indians. He is famously known as the founder of 'Azad Hind Fauj' and his famous slogan is 'Tum Mujhe Khoon Do, Main Tumhe Aazadi Dunga'. Today is the 76th death anniversary of Subhas Chandra Bose. 

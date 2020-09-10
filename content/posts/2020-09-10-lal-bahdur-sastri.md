@@ -3,7 +3,7 @@ title: "Lal Bahdur Sastri"
 slug:
 description: "About Lal Bahdur Sastri"
 date: 2020-09-10 07:59:06
-author: bleda-gridsome
+author:
 tags:
      - Independencefighter
      - India
